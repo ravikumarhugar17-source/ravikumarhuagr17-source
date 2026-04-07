@@ -11,8 +11,8 @@ This repository contains basic C programs.
 - Reverse Number
 - Fibonacci
 - palindrome
-- evenodd
-- pattaren1to5
+- Even odd
+- pattarn programs(1to5)
 
 ## How to Run
 gcc filename.c -o output
