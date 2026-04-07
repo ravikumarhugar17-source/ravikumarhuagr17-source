@@ -10,7 +10,9 @@ This repository contains basic C programs.
 - Largest Number
 - Reverse Number
 - Fibonacci
-- palindrome 
+- palindrome
+- evenodd
+- pattaren1to5
 
 ## How to Run
 gcc filename.c -o output
